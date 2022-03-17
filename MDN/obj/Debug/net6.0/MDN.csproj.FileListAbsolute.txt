@@ -1,0 +1,15 @@
+C:\Users\moham\source\repos\MDN\MDN\bin\Debug\net6.0\MDN.exe
+C:\Users\moham\source\repos\MDN\MDN\bin\Debug\net6.0\MDN.deps.json
+C:\Users\moham\source\repos\MDN\MDN\bin\Debug\net6.0\MDN.runtimeconfig.json
+C:\Users\moham\source\repos\MDN\MDN\bin\Debug\net6.0\MDN.dll
+C:\Users\moham\source\repos\MDN\MDN\bin\Debug\net6.0\ref\MDN.dll
+C:\Users\moham\source\repos\MDN\MDN\bin\Debug\net6.0\MDN.pdb
+C:\Users\moham\source\repos\MDN\MDN\obj\Debug\net6.0\MDN.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\MDN\MDN\obj\Debug\net6.0\MDN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\MDN\MDN\obj\Debug\net6.0\MDN.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\MDN\MDN\obj\Debug\net6.0\MDN.AssemblyInfo.cs
+C:\Users\moham\source\repos\MDN\MDN\obj\Debug\net6.0\MDN.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\MDN\MDN\obj\Debug\net6.0\MDN.dll
+C:\Users\moham\source\repos\MDN\MDN\obj\Debug\net6.0\ref\MDN.dll
+C:\Users\moham\source\repos\MDN\MDN\obj\Debug\net6.0\MDN.pdb
+C:\Users\moham\source\repos\MDN\MDN\obj\Debug\net6.0\MDN.genruntimeconfig.cache
